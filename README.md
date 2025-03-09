@@ -38,8 +38,8 @@ Located in `assets/`
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd [repo-name]
+git clone https://github.com/HaydenEdinger/Monorepo.git
+cd Monorepo
 ```
 
 2. Initialize submodules (if any):
