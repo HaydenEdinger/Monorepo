@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# Node modules (if you use npm)
+node_modules/ 

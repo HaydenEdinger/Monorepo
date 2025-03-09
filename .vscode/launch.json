@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "extendscript-debug",
+            "request": "launch",
+            "name": "Run Current Script",
+            "script": "${file}",
+            "hostAppSpecifier": "illustrator",
+            "debugLevel": 1
+        }
+    ]
+} 
